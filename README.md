@@ -6,11 +6,11 @@
 <a href="https://codepen.io/isis97/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 
 <h1 align="center">@styczynski</h1>
-<h3 align="center">Founder of Covid Genomics | Ex-TikTok, Ex-SumoLogic | Entrepreneur and enthusiast</h3>
+<h3 align="center">Former founder of Deepflare | Ex-TikTok, Ex-SumoLogic | Entrepreneur and enthusiast</h3>
 
 - 🌱 I’m currently helping [fight agains SARS Cov-2](http://covidgenomics.com/)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=styczynski&show_icons=true" alt="styczynski" /></p>
 
-<i>Generated automatically 2022-07-23</i>
+<i>Generated automatically 2022-07-24</i>
