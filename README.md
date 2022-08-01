@@ -6,10 +6,7 @@
 <a href="https://codepen.io/isis97/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 
 <h1 align="center">@styczynski</h1>
-<h3 align="center">Co-founder of Deepflare | Ex-TikTok R&D Enginner | Entrepreneur and enthusiast</h3>
-
-- 🌱 Cofounded multimilion biotech startup to create better mRNA vacciness for us all: [Deepflare (known as Covid Genomics before)](https://deepflare.ai)
-
+<h3 align="center">Chief Executive Engineer @ Covid Genomics | Ex-TikTok R&D Enginner | Entrepreneur and enthusiast</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=styczynski&show_icons=true" alt="styczynski" /></p>
 
