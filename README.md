@@ -8,7 +8,7 @@
 <h1 align="center">@styczynski</h1>
 <h3 align="center">Co-founder & Ex-Chief Engineering Officer @ Deepflare | Ex-TikTok R&D Enginner | Entrepreneur and enthusiast</h3>
 
-I was a co-founder and Chief Executive Enginner (understood as beeing an active executive and shareholder in early days of the company) from 1 Apr 2020 till 31 Aug 2022 in company Covid Genomics Sp. z o.o. (registered in Poland in Jun 2020, identified by number KRS 0000846289) which then changed its legal name to CGen Sp. z o.o. (in Jun 2022) and then changed its branding name to Deepflare (in Jul 2022).
+I was a co-founder (shareholder) until 15 July 2022 (KRS update on 3 Jun 2022) in Covid Genomics Sp. z o.o. (registered in Poland in Jun 2020, KRS 0000846289) which then changed its legal name to CGen Sp. z o.o. (on 3 Jun 2022) and then changed its branding name to Deepflare (on Jul 2022). I was also a Chief Engineering Officer from 1 Apr 2020 till 31 Aug 2022.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=styczynski&show_icons=true" alt="styczynski" /></p>
 
